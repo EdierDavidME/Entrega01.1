@@ -1,0 +1,14 @@
+{
+  "name": "entrega01.1",
+  "version": "1.0.1",
+  "description": "Primera entrega",
+  "main": "register.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EdierDavidME edierdavid77@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
